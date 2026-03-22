@@ -23,4 +23,4 @@ React + TypeScript app that generates parking exit ticket barcodes. Built with V
 
 ## Deployment
 
-GitHub Pages via `.github/workflows/deploy.yml`. The Vite base path is `/barcode-experiment`.
+GitHub Pages via `.github/workflows/deploy.yml`. The Vite base path is `/hiperdino-parking-opener`.
